@@ -1,0 +1,8 @@
+SpeechRecognition
+pyttsx3
+PyAudio
+wikipedia
+
+pipwin
+gTTS
+google
